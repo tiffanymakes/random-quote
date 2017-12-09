@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+  height: 100%;
+  width: 100%;
+  font: 24px 'Montserrat', sans-serif ;
+  background: #ffffff url("https://images.pexels.com/photos/70232/pexels-photo-70232.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat fixed center;
+  background-size: cover;
+}
+.text-area {
+  text-align: center;
+  background: rgba(255,255,255,0.7);
+  justify-content: center;
+  width: 600px;
+  border: 1px solid #f7f7f7;
+  padding: 5%;
+}
+.quote-area {
+  padding: 5%;
+}
